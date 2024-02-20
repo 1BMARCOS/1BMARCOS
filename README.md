@@ -1,16 +1,26 @@
-### Hi there 👋
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola! Mi nombre es Marcos</h2>
 
-<!--
-**1BMARCOS/1BMARCOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-Here are some ideas to get you started:
+### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 &nbsp;Disfruto las mañana haciendo codigo y encontrando desafios que me permitan desarrollar habilidades como dev\
+🎓 &nbsp;Graduado de la Bootcamp de Henry y actualmente autodidacta aprendiendo Next.js 14 \
+🌱 &nbsp;Actualmente estoy en la busqueda de cualquier oportunidad que me permita madurar como programador de front-ed.\
+✍️ &nbsp;En mis tiempos libres me gusta mucho salir a tomar un cafe o charlar con compañeros sobre qué tecnologias estan utilizando o aprendiendo .\
+💬 &nbsp;Estoy siempre dispuesto a que me contacten para un participar en un proyecto.\
+✉️ &nbsp;Me podes contactar via mail: marcoss.cs@hotmail.com ante cualquier duda o propuesta.\
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
