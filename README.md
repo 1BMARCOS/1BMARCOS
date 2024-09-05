@@ -5,8 +5,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Disfruto las mañanas haciendo codigo y encontrando desafios que me permitan desarrollar habilidades como dev\
-🎓 &nbsp;Graduado de la Bootcamp de Henry y actualmente autodidacta aprendiendo Next.js 14 \
-🌱 &nbsp;Actualmente estoy en la busqueda de cualquier oportunidad que me permita madurar como programador de front-ed.\
+🎓 &nbsp;Autodidacta aprendiendo Next.js 14 \
+🌱 &nbsp;Actualmente estoy en la busqueda de cualquier oportunidad que me permita madurar como programador de front.\
 ✍️ &nbsp;En mis tiempos libres me gusta mucho salir a tomar un cafe o charlar con compañeros sobre qué tecnologias estan utilizando o aprendiendo .\
 💬 &nbsp;Estoy siempre dispuesto a que me contacten para un participar en un proyecto.\
 ✉️ &nbsp;Me podes contactar via mail: marcoss.cs@hotmail.com ante cualquier duda o propuesta.\
