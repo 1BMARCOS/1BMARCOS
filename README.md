@@ -9,7 +9,7 @@
 🌱 &nbsp;Actualmente estoy en la busqueda de cualquier oportunidad que me permita madurar como programador de front.\
 ✍️ &nbsp;En mis tiempos libres me gusta mucho salir a tomar un cafe o charlar con compañeros sobre qué tecnologias estan utilizando o aprendiendo .\
 💬 &nbsp;Estoy siempre dispuesto a que me contacten para un participar en un proyecto.\
-✉️ &nbsp;Me podes contactar via mail: marcoss.cs@hotmail.com ante cualquier duda o propuesta.\
+✉️ &nbsp;Me podes contactar via mail: bmarcos.dev@gmail.com ante cualquier duda o propuesta.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
